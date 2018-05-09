@@ -1,0 +1,37 @@
+﻿TREINAMENTOS DEEP LEARNING/MACHINE LEARNING/DATA SCIENCE/BLOCKCHAIN
+=====================================================================================================================================
+(*)UDEMY
+- Machine Learning na Prática (https://www.udemy.com/machine-learning-na-pratica/)
+- Machine Learning A-Z™: Hands-On Python & R In Data Science (https://www.udemy.com/machinelearning/)
+- The Complete Guide to TensorFlow 1.x (https://www.udemy.com/the-complete-guide-to-tensorflow-1x/)
+- Machine Learning with TensorFlow (https://www.udemy.com/machine-learning-with-tensorflow/#curriculum)
+- Deep Learning with TensorFlow(https://www.udemy.com/deep-learning-with-tensorflow/)
+- Data Science: Practical Deep Learning in Theano + TensorFlow(https://www.udemy.com/data-science-deep-learning-in-theano-tensorflow/)
+- Data Science: Deep Learning in Python (https://www.udemy.com/data-science-deep-learning-in-python/)
+
+
+(*)UDACITY
+- Fundamentos de Data Science II (https://br.udacity.com/course/fundamentos-data-science-ii--nd111/)
+- Analista de Dados (https://br.udacity.com/course/data-analyst-nanodegree--nd008/)
+- Engenheiro de Machine Learning (https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009/)
+- Deep Learning feito por Google (https://br.udacity.com/course/deep-learning--ud730/)
+
+
+(*)DATA SCIENCE ACADEMY
+- Formação Cientista de Dados (https://www.datascienceacademy.com.br/bundles?bundle_id=formacao-cientista-de-dados)
+
+
+(*)COURSERA
+- Programa de cursos integrados Machine Learning with TensorFlow on Google Cloud Platform (https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- Programa de cursos integrados Data Engineering on Google Cloud Platform (https://www.coursera.org/specializations/gcp-data-machine-learning)
+
+
+(*)EDX
+- Micromaster Data Science (https://www.edx.org/micromasters/data-science)
+
+
+
+- Blockchain (https://www.goblockchain.io/)
+
+
+
